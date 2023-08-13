@@ -10,7 +10,7 @@ const WeatherCard = () => {
   const [cityDetails, setCityDetails] = useState([]);
   const [dataWeather, setDataWeather] = useState([]);
   const [windData, setWindData] = useState([]);
-  const APP_KEY = "0d3a107e9e7194f09b3876e89e02466d";
+  const APP_KEY = "1c237133e99ec58f807a43d3be1e2dc4";
   useEffect(() => {
     (async () => {
       const response = await fetch(
