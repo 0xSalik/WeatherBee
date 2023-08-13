@@ -103,7 +103,7 @@ const WeatherData = (props) => {
           <p>{getTime(props.city.sunset)}</p>
         </div>
       </div>
-      <p className="copyright">&copy; Salik Khan 2023</p>
+      <p className="copyright">&copy;Salik Khan 2023</p>
       <span>
         <a
           href="https://github.com/thesalikkhan/WeatherBee"
