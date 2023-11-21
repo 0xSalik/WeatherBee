@@ -1,5 +1,7 @@
 # WeatherBee - React Weather App
 
+![status](https://uptime.sal.lol/api/badge/15/status)
+
 WeatherBee is a weather forecasting application built using React.js that allows users to retrieve weather information for different locations using the OpenWeatherMap API.
 
 ## Features
